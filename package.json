@@ -1,0 +1,23 @@
+{
+  "name": "broccoli-coverage",
+  "version": "0.0.1",
+  "description": "Coverage reporting for Broccoli projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dylanb/broccoli-coverage.git"
+  },
+  "keywords": [
+    "Coverage",
+    "Broccoli"
+  ],
+  "author": "Dylan Barrell",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dylanb/broccoli-coverage/issues"
+  },
+  "homepage": "https://github.com/dylanb/broccoli-coverage"
+}
